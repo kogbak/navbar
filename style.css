@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: 0px 0px 10px gray;
+
+}
+
+
+.menu{
+
+    display: flex;   
+    color: #ff9a17;
+    font-family: 'Baloo Bhai', cursive;
+    justify-content: space-around;
+    font-size: 25px;
+    width: 50%;
+    
+}
+
+
+img{
+
+height: 150px;
+
+
+}
+
